@@ -28,6 +28,17 @@ Given the features provided in the dataset, predict whether a user converts.
 - **sample_submission.csv**
   Contains the required submission format.
 
+###  Deliverables 
+Participants must submit: 
+1. submission.csv 
+  Predictions for all records in private_test.csv. 
+2. Jupyter Notebook (.ipynb) -> name it as notebook.ipynb 
+  The notebook used to generate the final submission. 
+  The notebook must be reproducible and correspond to the submitted predictions. 
+3. One-Page Report (.pdf) 
+  A one-page summary of the methodology used to generate the final submission. 
+  Failure to submit any required file may result in disqualification.
+
 ### Important Note 
 The dataset has been designed to resemble real-world machine learning data. 
 Participants are encouraged to thoroughly explore the data and make informed decisions regarding 
