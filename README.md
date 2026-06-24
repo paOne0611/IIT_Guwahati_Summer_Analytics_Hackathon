@@ -1,5 +1,4 @@
-# E-Commerce-Conversion-Prediction-Challenge
-
+# E-Commerce-Conversion-Prediction-Challenge (IIT Guwahati Summer Analytics 2026 Hackathon)
 
 ### Overview
 This challenge focuses on predictive modeling using structured tabular data. Participants are expected to  analyze the dataset, perform appropriate preprocessing, engineer meaningful features, and build machine  learning models to predict customer conversion outcomes. 
@@ -19,13 +18,18 @@ Converted
 ● 0 = Not Converted 
 
 ### Files Provided 
-** train.csv **
+**train.csv**
 Contains feature columns along with the target variable. 
-** public_test.csv **
+**public_test.csv**
 Contains feature columns along with the target variable. 
 Participants may use this dataset for validation and experimentation. 
-** private_test.csv **
+**private_test.csv**
 Contains feature columns only. 
 Participants must generate predictions for this dataset. 
-** sample_submission.csv **
+**sample_submission.csv**
 Contains the required submission format.
+
+### Important Note 
+The dataset has been designed to resemble real-world machine learning data. 
+Participants are encouraged to thoroughly explore the data and make informed decisions regarding 
+preprocessing, feature engineering, model selection, and evaluation.
