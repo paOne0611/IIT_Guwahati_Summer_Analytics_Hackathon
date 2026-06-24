@@ -1,4 +1,4 @@
-# E Commerce Conversion Prediction Challenge (IIT Guwahati Summer Analytics 2026 Hackathon)
+# E Commerce Conversion Prediction Challenge 
 
 ### Overview
 This challenge focuses on predictive modeling using structured tabular data. Participants are expected to  analyze the dataset, perform appropriate preprocessing, engineer meaningful features, and build machine  learning models to predict customer conversion outcomes. 
